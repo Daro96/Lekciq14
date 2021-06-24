@@ -6,5 +6,6 @@ public class Main {
         System.out.println("Hello World");
         int a;
 	// write your code here
+        // obicham azis
     }
 }
